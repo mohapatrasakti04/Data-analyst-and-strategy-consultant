@@ -125,11 +125,6 @@ I came up through a fast paced startup, sharpened through consulting, and now sp
 
 Away from work I travel and shoot photography, chasing the same instinct in a different medium, looking for the frame or the place that says something the obvious view misses.
 
----
-
-## Currently
-
-Sharpening Python as my deliberate growth area, and studying business strategy frameworks as I work toward an MBA. Building this portfolio in public, one case study at a time.
 
 ---
 
