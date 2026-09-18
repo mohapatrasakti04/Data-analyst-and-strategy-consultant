@@ -43,7 +43,7 @@ Every engagement follows the same thread i.e. understand the problem, find the s
 
 ## Skills
 
-![Skills chart](assets/02-skills-chart.png)
+![Skills chart](assets/02-skills-radar.png)
 
 ---
 
