@@ -52,40 +52,39 @@ Every engagement follows the same thread i.e. understand the problem, find the s
 ### ZS Associates, Analytics Associate, Analytics and Strategy
 **2025 to Present, Bengaluru**
 
-#### **Budget Optimization & Sales Impact Analysis using Marketing Mix Modelling (MMM)| Liver Therapeutics**
-•	Optimized the 2027 promotional budget of $300M+, delivering 14% cost savings with no revenue impact by reallocating investments toward channels with higher ROI and mROI.
-•	Conducted Marketing Mix Modelling across 10+ marketing channels to evaluate channel impact on sales, enabling FY27 investment planning and supporting leadership decisions using ROI, mROI, and channel impact metrics.
-•	Built an HCP universe of 50K+ healthcare professionals, performed data transformations, adstock modeling, and developed linear regression models to quantify the contribution of individual channels to sales performance.
-•	Delivered end-to-end EDA on 1M+ promotional activity and sales records, uncovering trends, anomalies, and segment-level patterns, while developing response curves (sales vs spend) that identified 12-17% optimization opportunities in channel allocation.
-#### **Point of Care (Marketing Channel) Deployment Strategy | Liver Therapeutics**
-•	Identified 3K+ low-value deployed accounts and uncovered 7K+ high-potential opportunities through scenario-based and competitive landscape analysis, supporting executive commercial strategy decisions and improving market coverage by 25% at the same cost.
-•	Analyzed 54K+ healthcare accounts, 380K+ prescription/claims records, and 2.8M+ engagement data points to build a multi-factor segmentation framework leveraging patient potential, prescription trends, HCP tiers, competitor dynamics, and growth signals. Classified accounts into deploy, retain, withdraw, and inactive segments to optimize targeted sales coverage.
-•	Designed & deployed dashboards for leaderships providing visibility into HCP-level recommendations, engagement trends & key sales insights.
-#### **Next Best Action (NBA) Strategy & Use Case Development | Oncology Pharma**
-•	Designed 20+ Next Best Action (NBA) use cases by analyzing Claims, Hub, Specialty Pharmacy, and DDD datasets to create HCP-level recommendations across sales dynamics and patient journeys, improving targeting effectiveness by ~13%.
-•	Performed EDA and developed SQL-based business rules to define trigger conditions and suppression logic for NBA recommendations.
+**Budget Optimization and Sales Impact Analysis using Marketing Mix Modelling, Liver Therapeutics**
+- Optimized the 2027 promotional budget of $300M+, delivering 14% cost savings with no revenue impact by reallocating investments toward channels with higher ROI and mROI.
+- Conducted Marketing Mix Modelling across 10+ marketing channels to evaluate channel impact on sales, enabling FY27 investment planning and supporting leadership decisions using ROI, mROI, and channel impact metrics.
+- Built an HCP universe of 50K+ healthcare professionals, performed data transformations, adstock modeling, and developed linear regression models to quantify the contribution of individual channels to sales performance.
+- Delivered end to end EDA on 1M+ promotional activity and sales records, uncovering trends, anomalies, and segment level patterns, while developing response curves (sales vs spend) that identified 12 to 17% optimization opportunities in channel allocation.
 
+**Point of Care Deployment Strategy, Liver Therapeutics**
+- Identified 3K+ low value deployed accounts and uncovered 7K+ high potential opportunities through scenario based and competitive landscape analysis, supporting executive commercial strategy decisions and improving market coverage by 25% at the same cost.
+- Analyzed 54K+ healthcare accounts, 380K+ prescription and claims records, and 2.8M+ engagement data points to build a multi factor segmentation framework leveraging patient potential, prescription trends, HCP tiers, competitor dynamics, and growth signals. Classified accounts into deploy, retain, withdraw, and inactive segments to optimize targeted sales coverage.
+- Designed and deployed dashboards for leadership, providing visibility into HCP level recommendations, engagement trends, and key sales insights.
+
+**Next Best Action Strategy and Use Case Development, Oncology Pharma**
+- Designed 20+ Next Best Action use cases by analyzing Claims, Hub, Specialty Pharmacy, and DDD datasets to create HCP level recommendations across sales dynamics and patient journeys, improving targeting effectiveness by roughly 13%.
+- Performed EDA and developed SQL based business rules to define trigger conditions and suppression logic for NBA recommendations.
 
 ### PwC India, Associate Consultant, One Consulting
 **2023 to 2025, Kolkata**
 
-#### **Supply Chain Optimization of Public Distribution System | Govt of West Bengal **
-•	Developed a replenishment-based inventory optimization model using historical demand and supply data, improving OTIF (On-Time, In-Full) delivery by 7% across the network.
-•	Conducted exploratory data analysis (EDA) on historical demand, supply, and inventory datasets to identify demand variability patterns, stock imbalances, and optimization opportunities, supporting data-driven inventory planning decisions.
-•	Designed and deployed Power BI dashboards tailored to Govt of West Bengal and inventory stakeholders across 50+ warehouses and all districts of West Bengal, enabling centralized monitoring of inventory levels, replenishment, demand variability, and supply performance.
+**Supply Chain Optimization of the Public Distribution System, Government of West Bengal**
+- Developed a replenishment based inventory optimization model using historical demand and supply data, improving OTIF (on time, in full) delivery by 7% across the network.
+- Conducted exploratory data analysis on historical demand, supply, and inventory datasets to identify demand variability patterns, stock imbalances, and optimization opportunities, supporting data driven inventory planning decisions.
+- Designed and deployed Power BI dashboards tailored to the Government of West Bengal and inventory stakeholders across 50+ warehouses and all districts of West Bengal, enabling centralized monitoring of inventory levels, replenishment, demand variability, and supply performance.
 
-#### **Cybersecurity Analytics & Reporting**
-•	Led a team of 2 analysts managing 25+ Power BI dashboards for global security operations, reducing security incidents by 8% 
-•	Achieved this by building real-time visualizations across enterprise security platforms and analyzing incident trends and vulnerabilities.
-
+**Cybersecurity Analytics and Reporting**
+- Led a team of 2 analysts managing 25+ Power BI dashboards for global security operations, reducing security incidents by 8%.
+- Achieved this by building real time visualizations across enterprise security platforms and analyzing incident trends and vulnerabilities.
 
 ### Yoga Bar, Business Analyst Intern
 **2022, Bengaluru**
 
-Joined as one of the early team members in a fast-paced startup, taking ownership across multiple responsibilities.
-•	Leveraged sales and P&L analysis to identify customer churn and stockouts as key drivers of revenue leakage, resulting in customer retention and inventory optimization initiatives that increased revenue by 4%.
-•	Built 50+ interactive Metabase dashboards and automated reporting workflows using Python (Pandas), improving visibility across B2B/B2C sales performance and enhancing decision-making efficiency by 30%.
-
+Joined as one of the early team members in a fast paced startup, taking ownership across multiple responsibilities.
+- Leveraged sales and P&L analysis to identify customer churn and stockouts as key drivers of revenue leakage, resulting in customer retention and inventory optimization initiatives that increased revenue by 4%.
+- Built 50+ interactive Metabase dashboards and automated reporting workflows using Python (Pandas), improving visibility across B2B and B2C sales performance and enhancing decision making efficiency by 30%.
 
 ---
 
@@ -116,28 +115,28 @@ Public case studies where the full reasoning is on show, from raw data to recomm
 <tr>
 <td><img src="assets/logo-platformfee.png" width="110"/></td>
 <td>
-<img src="https://img.shields.io/badge/Case%20Study-3A3A3A?style=flat-square"/><br/>
+<img src="https://img.shields.io/badge/Case%20Study-E8A5A0?style=flat-square"/><br/>
 <b><a href="https://github.com/mohapatrasakti04/Quiet-Monetization-of-Convenience">Quiet Monetization of Convenience</a></b><br/>How Zomato and Swiggy turned a small platform fee into a large revenue engine inside a duopoly.
 </td>
 </tr>
 <tr>
 <td><img src="assets/logo-upi.png" width="110"/></td>
 <td>
-<img src="https://img.shields.io/badge/Case%20Study-3A3A3A?style=flat-square"/><br/>
+<img src="https://img.shields.io/badge/Case%20Study-E8A5A0?style=flat-square"/><br/>
 <b><a href="https://github.com/mohapatrasakti04/UPI-Transaction-Charge-Debate">UPI Transaction Charge Debate</a></b><br/>The economics of who really pays when payments are free.
 </td>
 </tr>
 <tr>
 <td><img src="assets/logo-tourism.png" width="110"/></td>
 <td>
-<img src="https://img.shields.io/badge/Analytical%20Recommendation-1F3A5F?style=flat-square"/><br/>
+<img src="https://img.shields.io/badge/Analytical%20Recommendation-4C8C5F?style=flat-square"/><br/>
 <b><a href="https://github.com/mohapatrasakti04/India-Heritage-Tourism-Insights">India Heritage Tourism Insights</a></b><br/>Demand concentration and untapped opportunity across ASI monuments.
 </td>
 </tr>
 <tr>
 <td><img src="assets/logo-kpmg.png" width="110"/></td>
 <td>
-<img src="https://img.shields.io/badge/Analytical%20Recommendation-1F3A5F?style=flat-square"/><br/>
+<img src="https://img.shields.io/badge/Analytical%20Recommendation-4C8C5F?style=flat-square"/><br/>
 <b><a href="https://github.com/mohapatrasakti04/KPMG-Virtual-Internship">KPMG Virtual Internship</a></b><br/>Customer segmentation and RFM analysis for a cycling retailer.
 </td>
 </tr>
