@@ -20,8 +20,8 @@ Bengaluru, India
 
 ## The one line version
 
-Analytics professional with 3+ years across analytics and strategy consulting, solving complex business problems through data. I structure ambiguous problems, analyze complex datasets, uncover actionable insights and translate findings into clear recommendations. 
-I have worked across commercial analytics, marketing analytics, supply chain and business intelligence with a focus on turning analysis into measurable business impact. My toolkit spans exploratory analysis, segmentation, predictive analytics, data transformation, dashboarding, and storytelling backed by SQL, Power BI, Excel, Python, and Metabase. 
+Analytics professional with **3+ years** across analytics and strategy consulting, solving complex business problems through data. I structure ambiguous problems, analyze complex datasets, uncover actionable insights and translate findings into clear recommendations. 
+I have worked across **commercial analytics**, **marketing analytics**, **supply chain** and **business intelligence** with a focus on turning analysis into measurable business impact. My toolkit spans exploratory analysis, segmentation, predictive analytics, data transformation, dashboarding, and storytelling backed by SQL, Power BI, Excel, Python, and Metabase. 
 
 ---
 
@@ -53,38 +53,38 @@ Every engagement follows the same thread i.e. understand the problem, find the s
 **2025 to Present, Bengaluru**
 
 **Budget Optimization and Sales Impact Analysis using Marketing Mix Modelling, Liver Therapeutics**
-- Optimized the 2027 promotional budget of $300M+, delivering 14% cost savings with no revenue impact by reallocating investments toward channels with higher ROI and mROI.
-- Conducted Marketing Mix Modelling across 10+ marketing channels to evaluate channel impact on sales, enabling FY27 investment planning and supporting leadership decisions using ROI, mROI, and channel impact metrics.
-- Built an HCP universe of 50K+ healthcare professionals, performed data transformations, adstock modeling, and developed linear regression models to quantify the contribution of individual channels to sales performance.
+- Optimized the **2027 promotional budget of $300M+**, delivering **14% cost savings with no revenue impact** by reallocating investments toward channels with higher ROI and mROI.
+- Conducted **Marketing Mix Modelling** across 10+ marketing channels to evaluate channel impact on sales, enabling FY27 investment planning and supporting leadership decisions using ROI, mROI, and channel impact metrics.
+- Built an **HCP universe of 50K+ healthcare professionals**, performed data transformations, adstock modeling, and developed linear regression models to quantify the contribution of individual channels to sales performance.
 - Delivered end to end EDA on 1M+ promotional activity and sales records, uncovering trends, anomalies, and segment level patterns, while developing response curves (sales vs spend) that identified 12 to 17% optimization opportunities in channel allocation.
 
 **Point of Care Deployment Strategy, Liver Therapeutics**
-- Identified 3K+ low value deployed accounts and uncovered 7K+ high potential opportunities through scenario based and competitive landscape analysis, supporting executive commercial strategy decisions and improving market coverage by 25% at the same cost.
-- Analyzed 54K+ healthcare accounts, 380K+ prescription and claims records, and 2.8M+ engagement data points to build a multi factor segmentation framework leveraging patient potential, prescription trends, HCP tiers, competitor dynamics, and growth signals. Classified accounts into deploy, retain, withdraw, and inactive segments to optimize targeted sales coverage.
+- **Identified 3K+ low value deployed accounts** and **uncovered 7K+ high potential opportunities** through scenario based and competitive landscape analysis, supporting executive commercial strategy decisions and improving market coverage by 25% at the same cost.
+- Analyzed 54K+ healthcare accounts, 380K+ prescription and claims records, and 2.8M+ engagement data points to build a **multi factor segmentation framework** leveraging patient potential, prescription trends, HCP tiers, competitor dynamics, and growth signals. Classified accounts into deploy, retain, withdraw, and inactive segments to optimize targeted sales coverage.
 - Designed and deployed dashboards for leadership, providing visibility into HCP level recommendations, engagement trends, and key sales insights.
 
 **Next Best Action Strategy and Use Case Development, Oncology Pharma**
-- Designed 20+ Next Best Action use cases by analyzing Claims, Hub, Specialty Pharmacy, and DDD datasets to create HCP level recommendations across sales dynamics and patient journeys, improving targeting effectiveness by roughly 13%.
+- Designed **20+ Next Best Action use cases** by analyzing Claims, Hub, Specialty Pharmacy, and DDD datasets to create HCP level recommendations across sales dynamics and patient journeys, improving targeting effectiveness by roughly 13%.
 - Performed EDA and developed SQL based business rules to define trigger conditions and suppression logic for NBA recommendations.
 
 ### PwC India, Associate Consultant, One Consulting
 **2023 to 2025, Kolkata**
 
 **Supply Chain Optimization of the Public Distribution System, Government of West Bengal**
-- Developed a replenishment based inventory optimization model using historical demand and supply data, improving OTIF (on time, in full) delivery by 7% across the network.
+- Developed a replenishment based inventory optimization model using historical demand and supply data, improving **OTIF (on time, in full) delivery by 7%** across the network.
 - Conducted exploratory data analysis on historical demand, supply, and inventory datasets to identify demand variability patterns, stock imbalances, and optimization opportunities, supporting data driven inventory planning decisions.
-- Designed and deployed Power BI dashboards tailored to the Government of West Bengal and inventory stakeholders across 50+ warehouses and all districts of West Bengal, enabling centralized monitoring of inventory levels, replenishment, demand variability, and supply performance.
+- Designed and deployed **Power BI dashboards** tailored to the Government of West Bengal and inventory stakeholders across 50+ warehouses and all districts of West Bengal, enabling centralized monitoring of inventory levels, replenishment, demand variability, and supply performance.
 
 **Cybersecurity Analytics and Reporting**
-- Led a team of 2 analysts managing 25+ Power BI dashboards for global security operations, reducing security incidents by 8%.
+- Led a team of 2 analysts managing 25+ Power BI dashboards for global security operations, **reducing security incidents by 8%**.
 - Achieved this by building real time visualizations across enterprise security platforms and analyzing incident trends and vulnerabilities.
 
 ### Yoga Bar, Business Analyst Intern
 **2022, Bengaluru**
 
 Joined as one of the early team members in a fast paced startup, taking ownership across multiple responsibilities.
-- Leveraged sales and P&L analysis to identify customer churn and stockouts as key drivers of revenue leakage, resulting in customer retention and inventory optimization initiatives that increased revenue by 4%.
-- Built 50+ interactive Metabase dashboards and automated reporting workflows using Python (Pandas), improving visibility across B2B and B2C sales performance and enhancing decision making efficiency by 30%.
+- Leveraged **sales and P&L analysis** to identify **customer churn** and stockouts as key drivers of revenue leakage, resulting in customer retention and inventory optimization initiatives that increased revenue by 4%.
+- Built **50+ interactive Metabase dashboards** and **automated reporting workflows using Python (Pandas)**, improving visibility across B2B and B2C sales performance and enhancing decision making efficiency by 30%.
 
 ---
 
